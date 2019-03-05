@@ -22,7 +22,6 @@ class Switcher(object):
         Default method.
         """
         print("No argument available!")
-        exit
 
     def method_a(self):
         """
